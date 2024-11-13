@@ -1,0 +1,41 @@
+[
+    {
+        "datos_fijos": [
+            1,
+            "Sebastian Bizama"
+        ],
+        "rut": 21751180,
+        "cursos": [
+            "Interfaces Graficas"
+        ],
+        "calificaciones": {
+            "Interfaces Graficas": []
+        }
+    },
+    {
+        "datos_fijos": [
+            2,
+            "Carlos Constanzo"
+        ],
+        "rut": 22043410,
+        "cursos": [
+            "Interfaces Graficas"
+        ],
+        "calificaciones": {
+            "Interfaces Graficas": []
+        }
+    },
+    {
+        "datos_fijos": [
+            3,
+            "Maximiliano Fernandez"
+        ],
+        "rut": 21780345,
+        "cursos": [
+            "Interfaces Graficas"
+        ],
+        "calificaciones": {
+            "Interfaces Graficas": []
+        }
+    }
+]
